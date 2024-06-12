@@ -8,7 +8,7 @@
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
 <project name="Gym_Management_System(fitnesshub)" default="default" basedir=".">
-    <description>Builds, tests, and runs the project Gym Management System(fitnesshub).</description>
+    <Dpoquito>Builds, tests, and runs the project Gym Management System(fitnesshub).</>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
